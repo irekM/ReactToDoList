@@ -1,4 +1,10 @@
-//commit "
+//commit "tryToRepairGithubCommits is no more important since now.
+
+I just had a problem with uploading project on github so I tried many of solutions, one of them was small edit in any file of project but unfortunately it didn't worked so finally i found solution on stackoverflow contained to git configuration which for sure works!
+
+By the way, 
+
+This to do list is only beggining of small webApi project. Logic of api works correctly so its almost done. When I will have some free time I am going to style that for some nice looking web api, than I create from that to do list a shopping list working just in time. It will be helpfull for me more than sticky notes for shopping. Another advantage is that, my wife shall add items to buy just in time agains calling to me every 5 sec with a new thing. 
 
 
 
